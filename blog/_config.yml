@@ -41,3 +41,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+baseurl: "/blog"
+production_url : http://audreygchoi.github.io.com/blog
+
