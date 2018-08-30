@@ -11,15 +11,15 @@ Recently, Venmo hosted <a href="https://www.meetup.com/WomenWhoCodeNYC/">Women W
 <br>
 For some background about myself, I currently work at Venmo as a backend engineer working on features such as instant transfer and how money moves at Venmo.  But after graduating from UVA in 2015, my first job out of college was as a software consultant at Red Hat.  As a software consultant I acted as what I called a "software engineer for hire."  However, Venmo was my first officially titled "software engineer" role.  These tips were gathered from these two experiences.
 <br>
-<h2>(1) Take the time to read code</h2>
+<h2>(1) take the time to read code</h2>
 <br>
 When I started at Red Hat, a mentor told me the best advice he could give me was to always take the time to read code.  This advice has held true and is my first tip.  Any time you go on a new project or work on a new part of the code base or with unfamiliar code take a day or two to just read code that is already there.  Taking the time to read code helps you understand the context better of why decisions were made the way they were, develop better questions, and gives you a better understanding overall.
 <br>
-<h2>(2)Step up, even when not asked</h2>
+<h2>(2) step up, even when not asked</h2>
 <br>
 The best opportunities that have come to me are either a result of stepping up in various ways, whether that may be taking on work I wasn't asked to do, helping out when unasked, or straight up volunteering myself for a position.  Not only does this show people that you can do more but it also allows you to do work that excites you or allows you to explore different things that may not exactly be in your job description.  Additionally, I have learned that when you are wondering why you were not offered some project or task that you wanted to be on, it's not that people are not asking you because you are not qualified, it is because they just simply did not think of you to complete these items.  When I just went ahead and completed tasks or volunteered myself, people were thankful.
 <br>
-<h2>(3)Culture matters</h2>
+<h2>(3) culture matters</h2>
 <br>
 Spent a lot of time looking at companies and i knew culture mattered to me but didnt know what that meant
 Mentorship and collaboration
