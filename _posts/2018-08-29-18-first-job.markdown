@@ -1,0 +1,27 @@
+---
+layout: post
+title: three tips for your first software engineering job
+date: 2016-08-16 01:00:00
+description: I gave a lighting talk to Women Who Code NYC with the topic of "Your First Software Engineering Job" and decided to write it down
+---
+
+Recently, Venmo hosted <a href="https://www.meetup.com/WomenWhoCodeNYC/">Women Who Code NYC</a> for lighting talks with the topic of "Your First Software Engineering Job."  I was asked to speak on lessons I have learned during what I considered my first software engineering job.  I ending up compiling those lessons into a talk about three tips for your first software engineering job, which I will share with you now.
+
+<hr>
+
+For some background about myself, I currently work at Venmo as a backend engineer working on features such as instant transfer and how money moves at Venmo.  But after graduating from UVA in 2015, my first job out of college was as a software consultant at Red Hat.  As a software consultant I acted as what I called a "software engineer for hire."  However, Venmo was my first officially titled "software engineer" role.  These tips were gathered from these two experiences.
+
+<h2>Take the time to read code</h2>
+<h3>Take the time to read code</h3>
+
+Any time you go on a new project take a day or two to just read code
+Helps you understand the context better of why decisions were made the way they were, develop better questions, and gives you a better understanding overall
+Step Up, even when not asked
+Learned that sometimes people don’t think of these things and when I just did it or volunteered myself people were thankful
+You should feel empowered to do what you feel is best for the company
+Red Hat Culture Events
+Culture matters
+Spent a lot of time looking at companies and i knew culture mattered to me but didnt know what that meant
+Mentorship and collaboration
+People that you want to spend your time with and you’re genuinely happy to see every day
+People that are motivated and excited to be doing what they’re doing, and maybe not every day because there sometimes are tough days, but they are passionate about what theyre building and doing

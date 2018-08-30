@@ -17,5 +17,7 @@ When I was learning about Nazi Germany, I used to ask myself: What would I have 
 
 For that, I apologize to all of those who I haven’t stood up for.  For not marching next to you to the White House in protest of violation of rights.  For not rallying by you in Times Square as you fight for your families to be let into this country like mine was.  For not speaking out as your liberties were chipped away at.  For not standing in front of the Rotunda fighting hatred.  I have let you down as a friend, as a neighbor, as a loved one.  I am truly sorry for abandoning you and I promise you that I will no longer act out of fear and finally break my bubble.
 
-<p class="quoteText"><strong><em>We must take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented. Sometimes we must interfere. When human lives are endangered, when human dignity is in jeopardy, national borders and sensitivities become irrelevant. Wherever men and women are persecuted because of their race, religion, or political views, that place must - at that moment - become the center of the universe.</em></strong></p>
+<blockquote>
+We must take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented. Sometimes we must interfere. When human lives are endangered, when human dignity is in jeopardy, national borders and sensitivities become irrelevant. Wherever men and women are persecuted because of their race, religion, or political views, that place must - at that moment - become the center of the universe.</em></strong></p>
 <strong><em> - Elie Wiesel</em></strong>
+</blockquote>
