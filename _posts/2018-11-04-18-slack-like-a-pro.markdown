@@ -13,63 +13,42 @@ This tweet is sometimes how it feels like to use Slack.  Venmo uses it as its co
 <h3>(1) reduce the sidebar visual clutter</h3>
 <br>
 <img class="col three" src="{{ site.baseurl }}/img/slack/slack-sidebar.png">
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-sidebar.png">
-</div>
 In your Sidebar settings choose to only show your unreads and conversations instead of everything.  This will reduce the visual clutter and noise.
 <br>
 <h3>(2) don't show pictures</h3>
 <br>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-no-pictures.png">
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-no-pictures-2.png">
-</div>
+<img class="col three" src="{{ site.baseurl }}/img/slack/slack-no-pictures.png">
+<img class="col three" src="{{ site.baseurl }}/img/slack/slack-no-pictures-2.png">
 This allows you to reduce even more of the visual clutter and lets you focus on the messages.
 <br>
 <h3>(3) cmd-k</h3>
 <br>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-quick-switcher.png">
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-quick-switcher-2.png">
-</div>
+<img class="col three" src="{{ site.baseurl }}/img/slack/slack-quick-switcher.png">
+<img class="col three" src="{{ site.baseurl }}/img/slack/slack-quick-switcher-2.png">
 Once you've hidden your visual clutter, you may wonder how to navigate between channels.  You can use the "Quick Switcher" at the top of your Sidebar or use the Cmd-K shortcut
 <br>
 <h3>(4) use your status</h3>
 <br>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-status.png">
-</div>
+<img class="col three" src="{{ site.baseurl }}/img/slack/slack-status.png">
 If you want to focus, use your status to tell people that you're heads down working, in a meeting, or otherwise busy.  You can also use it to let people you are out of office and on vacation.
 <br>
 <h3>(5) go "away" and "do not disturb"</h3>
 <br>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-away.png">
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-do-not-disturb.png">
-</div>
+<img class="col three" src="{{ site.baseurl }}/img/slack/slack-away.png">
+<img class="col three" src="{{ site.baseurl }}/img/slack/slack-do-not-disturb.png">
 You can always set your self to "Away" which will let people know that you may be slower ti respond.
 
 You can also get your self at any time to "Do Not Disturb" and not get notifications.
 <br>
 <h3>(6) automatically set your "do not disturb"</h3>
 <br>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-schedule-do-not-disturb.png">
-</div>
+<img class="col three" src="{{ site.baseurl }}/img/slack/slack-schedule-do-not-disturb.png">
 Ever go home and then get absorbed back into work because you got a bunch of messages?  You can set "Do Not Disturb" to automatically turn on so you don't get messages.
 
 <br>
 <h3>(7) unfollow threads</h3>
 <br>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-unfollow-thread.png">
-</div>
+<img class="col three" src="{{ site.baseurl }}/img/slack/slack-unfollow-thread.png">
 You get tagged in a thread to answer a question, and you have answered the question, but now the thread is still going and theres 90 other messages... You can unfollow a thread to stop getting notifications.
 <br>
 <h3>(8) other slack behaviors</h3>
