@@ -12,6 +12,7 @@ This tweet is sometimes how it feels like to use Slack.  Venmo uses it as its co
 <br>
 <h3>(1) reduce the sidebar visual clutter</h3>
 <br>
+<img class="col three" src="{{ site.baseurl }}/img/slack/slack-sidebar.png">
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/slack/slack-sidebar.png">
 </div>
