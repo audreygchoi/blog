@@ -53,9 +53,9 @@ You get tagged in a thread to answer a question, and you have answered the quest
 <br>
 <h3>(8) other slack behaviors</h3>
 <br>
-<li>
-<ul> Mute Channels </ul>
-<ul> Leave Channels -- no one will be offended and if they need you again, they'll add you back </ul>
-<ul> Similar to your email inbox, choose a time of day when you can "clear your slack inbox" </ul>
-<ul> Take some time with your team to figure out how you like to communicate and your slack norms </ul>
-</li>
+<ul>
+<li> Mute Channels </li>
+<li> Leave Channels -- no one will be offended and if they need you again, they'll add you back </li>
+<li> Similar to your email inbox, choose a time of day when you can "clear your slack inbox" </li>
+<li> Take some time with your team to figure out how you like to communicate and your slack norms </li>
+</ul>
