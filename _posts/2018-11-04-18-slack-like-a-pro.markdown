@@ -8,4 +8,4 @@ description: If your company uses Slack as your communication tool, these tips w
 <br>
 This tweet is sometimes how it feels like to use Slack.  Venmo uses it as its communication tool of choice, but if you're not careful you can suddenly find yourself in dozens if not hundreds of channels and unable to sift through all the noise.  On its own it's a powerful tool that encourages communication and is one of my personal favorites.  However the journey to making it manageable and not an overwhelming tool was a long one.  I gave a presentation to the Venmo office after earning a title from my team as being the Flash when it came to Slack. Here is the following presentation.
 <hr>
-<embed src="/files/slack_like_a_pro.pdf" type="application/pdf" width="100%" height="800em">
+<embed src="https://drive.google.com/file/d/1c-TmQ7o_CVTnTz4IriCyVESX2W8NJa9C/view" type="application/pdf" width="100%" height="800em">
